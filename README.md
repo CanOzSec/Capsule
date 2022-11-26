@@ -2,7 +2,7 @@
 
 Capsule is a tool designed to bypass anti-virus solutions.<br />
 This project uses various evasion techniques and protects the payload from anti-virus solutions.<br />
-It's 26.11.2022 and it's fully undetected (FUD)<br />
+It's fully undetected (FUD)<br />
 
 ![FUD](assets/YGEK4MVPVCBi.png)
 
