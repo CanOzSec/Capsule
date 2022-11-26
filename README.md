@@ -1,8 +1,8 @@
 # Capsule
 
-Capsule is a tool designed to bypass anti-virus solutions.
-This project uses various evasion techniques and protects the payload from anti-virus solutions.
-It's 26.11.2022 and it's fully undetected (FUD)
+Capsule is a tool designed to bypass anti-virus solutions.<br />
+This project uses various evasion techniques and protects the payload from anti-virus solutions.<br />
+It's 26.11.2022 and it's fully undetected (FUD)<br />
 
 ![FUD](assets/YGEK4MVPVCBi.png)
 
@@ -31,4 +31,4 @@ cd build
 compile.bat
 ```
 
-Output will be capsuled.exe in build directory.
+Output will be capsuled.exe in the build directory.
