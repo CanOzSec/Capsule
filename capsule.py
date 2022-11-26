@@ -52,7 +52,8 @@ print('''
 
 **************************** Created by CanOzSec ****************************
 ''')
-
+path = os.getcwd() + "\\build"
+os.mkdir(path)
 try:
     plain_payload = open(sys.argv[1], "rb").read()
 except:
