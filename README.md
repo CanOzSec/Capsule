@@ -35,4 +35,5 @@ Output will be capsuled.exe in the build directory.
 You can find the scanned exe in the assets/scannedfiles.zip with the pass: CanOzSec
 
 * FUD at 12.12.2022
+
 ![FUD](assets/Qc7I7YwmQIp7.png)
