@@ -3,9 +3,6 @@
 Capsule is a tool designed to bypass anti-virus solutions.<br />
 This project uses various evasion techniques and protects the payload from anti-virus solutions.<br />
 It's fully undetected (FUD)<br />
-
-![FUD](assets/YGEK4MVPVCBi.png)
-
 ## Software Requirements
 
 * Windows 10 (Other windows versions may work too I didn't test them.)
@@ -32,3 +29,10 @@ compile.bat
 ```
 
 Output will be capsuled.exe in the build directory.
+
+## Scan Results
+
+You can find the scanned exe in the assets/scannedfiles.zip with the pass: CanOzSec
+
+* FUD at 12.12.2022
+![FUD](assets/Qc7I7YwmQIp7.png)
